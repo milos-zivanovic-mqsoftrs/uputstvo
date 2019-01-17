@@ -26,6 +26,7 @@ ruta ```/pregled``` sadrzi graficki prikaz:
 
 slika 1.2
 ![image](images\isplatioci.png)
+![Alt text](relative/milos-zivanovic-mqsoftrs/uputstvo/images/master/pregled.png?raw=true "Title")
 
 -  kliknuti na dugme ```Dodaj```
 - sistem ce vas redirektovati na rutu za dodavanje novog isplatioca, rutu ```/isplatioci/editor``` (slika 1.3)
