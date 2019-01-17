@@ -11,7 +11,7 @@ slika 1.0
 
 slika 1.1
 
-![alt text](https://raw.githubusercontent.com/milos-zivanovic-mqsoftrs/uputstvo/images/master/Pregled.png)
+![alt text](https://raw.githubusercontent.com/milos-zivanovic-mqsoftrs/master/uputstvo/images/Pregled.png)
 
 ![Optional Text](../master/uputstvo/Pregled.png)
 
