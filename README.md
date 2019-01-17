@@ -13,6 +13,8 @@ slika 1.1
 
 ![alt text](https://raw.githubusercontent.com/milos-zivanovic-mqsoftrs/uputstvo/images/master/pregled.png)
 
+![Optional Text](../master/uputstvo/pregled.png)
+
 ruta ```/pregled``` sadrzi graficki prikaz: 
 - dnevnog pregleda naloga 
 - mesecnog pregleda naloga
