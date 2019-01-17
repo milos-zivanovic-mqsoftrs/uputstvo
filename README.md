@@ -33,6 +33,9 @@ slika 1.2
 ![image](images\isplatioci.png)
 ![Alt text](relative/milos-zivanovic-mqsoftrs/uputstvo/images/master/isplatioci.png?raw=true "Title")
 
+![isplatioci](https://user-images.githubusercontent.com/42855729/51325624-a300b200-1a6d-11e9-885c-ee629f0aae27.png)
+
+
 -  kliknuti na dugme ```Dodaj```
 - sistem ce vas redirektovati na rutu za dodavanje novog isplatioca, rutu ```/isplatioci/editor``` (slika 1.3)
 
