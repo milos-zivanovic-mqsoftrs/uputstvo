@@ -2,13 +2,15 @@
 - na ruti za prijavu na PAPA aplikaciju (slika 1.0) (```/login```), unesite Ime korisnika i Lozinku
 
 slika 1.0
-![image](images\PAPA.png)
+
+![alt text](https://raw.githubusercontent.com/milos-zivanovic-mqsoftrs/uputstvo/images/PAPA.png)
 
 - kliknite na ```Uloguj se```
 - nakon uspesne prijave, sistem vas redirektuje na rutu ```/pregled```
 
 slika 1.1
-![image](images\pregled.png)
+
+![alt text](https://raw.githubusercontent.com/milos-zivanovic-mqsoftrs/uputstvo/images/master/pregled.png)
 
 ruta ```/pregled``` sadrzi graficki prikaz: 
 - dnevnog pregleda naloga 
