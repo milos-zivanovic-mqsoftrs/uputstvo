@@ -15,6 +15,8 @@ slika 1.1
 
 ![Optional Text](../master/uputstvo/Pregled.png)
 
+![pregled](https://user-images.githubusercontent.com/42855729/51325069-713b1b80-1a6c-11e9-8a8e-854e4b51b7a5.png)
+
 ruta ```/pregled``` sadrzi graficki prikaz: 
 - dnevnog pregleda naloga 
 - mesecnog pregleda naloga
