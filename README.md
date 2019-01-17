@@ -4,6 +4,7 @@
 slika 1.0
 
 ![alt text](https://raw.githubusercontent.com/milos-zivanovic-mqsoftrs/uputstvo/images/PAPA.png)
+![papa](https://user-images.githubusercontent.com/42855729/51324423-f9202600-1a6a-11e9-9307-7f3ad9faa3b3.png)
 
 - kliknite na ```Uloguj se```
 - nakon uspesne prijave, sistem vas redirektuje na rutu ```/pregled```
@@ -26,7 +27,7 @@ ruta ```/pregled``` sadrzi graficki prikaz:
 
 slika 1.2
 ![image](images\isplatioci.png)
-![Alt text](relative/milos-zivanovic-mqsoftrs/uputstvo/images/master/pregled.png?raw=true "Title")
+![Alt text](relative/milos-zivanovic-mqsoftrs/uputstvo/images/master/isplatioci.png?raw=true "Title")
 
 -  kliknuti na dugme ```Dodaj```
 - sistem ce vas redirektovati na rutu za dodavanje novog isplatioca, rutu ```/isplatioci/editor``` (slika 1.3)
